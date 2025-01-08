@@ -1,7 +1,7 @@
 <h1 align="center"> PING PONG </h1>
 
 <p align="center">
-Projeto de um jogo de PING PONG feito nas aulas do curso DEV SAMURAI. <br/>
+Projeto do jogo tênis de mesa, popularmente conhecido como ping-pong.<br/>
 
 
 <br>
