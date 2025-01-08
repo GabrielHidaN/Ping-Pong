@@ -11,7 +11,7 @@
           w: window.innerWidth,
           h: window.innerHeight,
           draw: function(){
-            canvasCtx.fillStyle = "#286047"
+            canvasCtx.fillStyle = "#241178"
             canvasCtx.fillRect(0,0, this.w , this.h)
 
           }
@@ -92,7 +92,7 @@
             canvasCtx.font = "bold 72px Arial"
             canvasCtx.textAlign = "center"
             canvasCtx.textBaseline = "top"
-            canvasCtx.fillStyle = "#01341D"
+            canvasCtx.fillStyle = "#ffffff"
             canvasCtx.fillText(this.human,field.w /4 , 50)
             canvasCtx.fillText(this.computer , field.w / 4 + field.w /2 , 50)
 
