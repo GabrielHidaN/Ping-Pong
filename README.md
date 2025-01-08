@@ -7,7 +7,7 @@ Projeto de um jogo de PING PONG feito nas aulas do curso DEV SAMURAI. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto PingPong" src="ping-pong%20readme.png" width="100%">
+  <img alt="projeto PingPong" src="ping-pong.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
